@@ -22,3 +22,7 @@
 
 #### サーバー
 - Vercel
+
+#### 公開URL
+- https://www.bunfes.com/
+
